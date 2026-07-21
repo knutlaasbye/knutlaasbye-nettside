@@ -237,6 +237,40 @@ const texts = [
   },
 
   {
+    id: 80,
+    images: [{ src: "images/artikler/artikkel-093.jpg", alt: "Illustrasjon: Knut Laasbye", position: "top" }],
+    title: "Respektens fordekte språk",
+    category: "Essay",
+    year: "",
+    subheadings: ["To ord i ett", "Når grensa flyttes", "Konsekvensen den andre veien", "Hva blir stående igjen"],
+    ingress:
+      "Et lite, uskyldig ord dukker opp hver gang debatten blir for varm: respekt. Det høres ut som en dyd ingen kan protestere mot. Men ordet skjuler to ganske ulike betydninger – og når de glir sammen, er det som oftest påstanden som vinner, forkledd som høflighet.",
+    body: [
+      "Jeg lurer på et ord.",
+      "Et lite, uskyldig ord som dukker opp hver gang debatten blir for varm: respekt. Vi skal være respektfulle. Høre den andre sida. Ikke gå i skyttergraver. Det høres ut som en dyd ingen kan protestere mot – hvem vil vel forsvare respektløshet?",
+      "Men jo lenger jeg ser på ordet, jo mer urolig blir jeg for hva det egentlig ber oss om, denne gangen.",
+      "To ord i ett",
+      "For «respekt» har to ganske ulike betydninger som gjerne glir sammen i praten, uten at noen sier fra.",
+      "Den ene handler om mennesket – at vi ikke fornedrer, ikke dehumaniserer, ikke tyr til hat eller vold mot den vi krangler med. Dette er en respekt jeg tror vi bør holde fast ved nesten uansett, fordi den handler om vår egen integritet mer enn om hva motparten fortjener.",
+      "Den andre betydninga handler om standpunktet – at vi skal behandle meninga som om den fortjener en åpen, avventende lytting, et sted i det legitime meningsmangfoldet.",
+      "Roland Barthes (fransk forfatter og språkanalytiker) kalte dette en myte: når det ene ordet stille glir over i det andre, uten at vi merker det. «Vær grei mot mennesket» blir til «ta standpunktet på alvor.» Og plutselig kan vi ikke avvise et standpunkt lenger – uten sjøl å bli den uhøflige.",
+      "Når grensa flyttes",
+      "Hva skjer når vi lar denne sammenblandinga styre offentlige debatten?",
+      "Grensa for det tenkelige flyttes. Standpunkt som burde vært helt utafor, blir gradvis til «den ene sida» i en sak med «to sider». Ikke fordi noen bestemmer det. Men fordi språket vårt sakte tillater det – så lenge en sier det pent nok, med nok forbehold, i riktig tonefall.",
+      "Det har skjedd før. Klimafornektelse ble lenge behandla som «en side av saken», lenge etter at fagfolka var enige. Historierevisjon har fått plass i «balanserte» debattpaneler. Formen – rolig, saklig, tilsynelatende åpen – blir forveksla med at innholdet fortjener samme plass.",
+      "Konsekvensen den andre veien",
+      "Men svaret er ikke bare «da slutter vi å lytte.» For det finnes en motsatt fare, minst like stor.",
+      "Hvis «de fortjener ikke respekt» blir et frikort vi kan bruke på hvem som helst, mister vi presisjonen. Ordet «folkemord» er tungt. Derfor er det fristende å bruke det retorisk – også om saker der det egentlig er reell politisk uenighet, ikke enighet om at et folkemord har skjedd. Brukt løst nok blir ordet et våpen mot alle vi er dypt uenige med, og ikke en presis beskrivelse av noe grusomt og bestemt.",
+      "Filosofen Lars Fr. H. Svendsen har beskrevet noe lignende: en posisjon der konklusjonen ligger fast på forhånd, og der kritikk bare blir bevis på at en har rett. Et slags immunsystem mot korreksjon. «Ingen respekt for det standpunktet» kan fungere på samme måte – uansett hvem som sier det. En ferdig dom som gjør videre tenking unødvendig, og som gjør motparten til fiende istedenfor til noen en faktisk må argumentere mot.",
+      "Og mister vi presisjonen, mister vi troverdigheten. Den som roper «folkemord» om alt de er uenige i, blir vanskeligere å tro den dagen ordet faktisk stemmer.",
+      "Hva blir stående igjen",
+      "Jeg tror ikke svaret er å slutte å være menneskelig mot dem vi er dypt uenige med. Og jeg tror heller ikke svaret er å lytte ubegrensa til alt som sies pent nok.",
+      "Det jeg sitter igjen med, er dette: vi må slutte å late som om respekt for personen og respekt for påstanden er samme ting. Vi må tåle å vurdere hver påstand for seg – presist – istedenfor å la ett ord gjøre jobben for oss.",
+      "For når de to blandes sammen, er det som oftest påstanden som vinner. Forkledd som høflighet. Eller forkledd som fasthet. Uansett hvilken vei blandinga går.",
+    ],
+  },
+
+  {
     id: 69,
     title: "Jaktas fordekte språk",
     category: "Essay",
@@ -1327,6 +1361,27 @@ const texts = [
   },
 
   {
+    id: 79,
+    title: "Genetisk viktig individ – når forvaltningsspråket låner naturens autoritet",
+    category: "Essay",
+    outlet: "",
+    year: "2026",
+    ingress:
+      "Et begrep fra norsk ulveforvaltning – \"genetisk viktig individ\" – høres ut som økologi. Men grava man litt, viser det seg å være noe helt annet.",
+    images: [
+      { src: "images/artikler/artikkel-092.jpg", alt: "Illustrasjon: Miroslaw Miras/Pixabay", position: "top" },
+    ],
+    body: [
+      "Biosentrismen sier at ethvert levende individ har ei egenverdi, uavhengig av nytte – dyret, planta, soppen har rett til å leve og blomstre i kraft av å være levende. Økosentrismen sier at verdien ligger i helheten: i økosystemet, i sammenhengene som gjør livet mulig. Som oftest kan disse to forståelsene gå hand i hand. Å verne eit leveområde er både å verne enkeltindividene som bor der, og helheten de inngår i.",
+      "Men noen ganger kolliderer de. Norsk ulveforvaltning er kanskje det tydeligste eksempelet vi har. Her opererer forvaltninga med begrepet \"genetisk viktig individ\" – ein ulv som vurderes som spesielt verdifull for bestandens overlevelse, og som derfor kan gis eit sterkere vern enn andre individ i samme flokk. Ved første øyekast ser dette ut som ei økosentrisk vurdering: individet får verdi ut fra hva det betyr for helheten. Men grava man litt, viser det seg å være noe annet.",
+      "For hva er egentlig \"genetisk viktig\"? Det er ikke eit mål økosystemet sjøl har satt. Det er eit forvaltningsmål – ei administrativ vurdering av hvor mye genetisk variasjon en bestand trenger for å oppfylle bestemte referanseverdier, satt av mennesker, ut fra menneskelige forvaltningsmodeller. Begrepet \"genetisk viktig individ\" er altså forvaltningsspråk kledd i økologisk drakt. Det låner autoriteten til noe som høres ut som naturvitenskap – genetikk, bestandsøkologi – for å pakke inn det som i bunn og grunn er ei instrumentell vurdering: hvor mye er dette dyret verdt for eit mål mennesker har definert?",
+      "Det er her det biosentriske spørsmålet blir stående ubesvart. For selv om ein ulv defineres som genetisk viktig, og dermed får eit sterkere vern i forvaltningsvedtak, er det ikke fordi ulven sjøl har ei egenverdi som krever det. Det er fordi den tjener eit bestandsmål. Og det betyr at ulver som ikke er genetisk viktige – flertallet – i praksis kan skytes med mindre motstand i systemet, ikke fordi de har mindre rett til å leve, men fordi de ikke passer forvaltningas regnestykke.",
+      "Dette er ikke et argument for at biosentrisme er riktig og økosentrisme feil, eller omvendt. Det er et argument for å se hva slags språk vi bruker når vi snakker om naturen, og hva det språket skjuler. \"Genetisk viktig individ\" høres nøytralt og vitenskapelig ut. Men det er et språk som avgjør hvilke liv som teller, og på hvilke premisser – uten at premissene noen gang blir sagt høyt.",
+      "Det finnes ikke noe fasitsvar på om individet eller helheten skal veie tyngst. Men det finnes et krav om å se når det ene språket later som det er det andre – når ei forvaltningsvurdering kler seg i økologiens autoritet for å slippe å møte det biosentriske spørsmålet med åpent visir.",
+    ],
+  },
+
+  {
     id: 52,
     sectionTitle: "Filosofi og idéhistorie",
     images: [{ src: "images/artikler/artikkel-047.jpg", alt: "Foto: morhamedufmg / Pixabay", position: "top" }],
@@ -1833,6 +1888,29 @@ const texts = [
 "Men ansvaret er ikke ditt eller mitt aleine. Det er ikke du og jeg som har gitt Temu tollfritak. Det er ikke du og jeg som har unnlatt å kontrollere varene. Og det er ikke din og min oppgave å være siste skanse mot produkter som det aldri skulle vært lov å selge. Temu opererer fritt fordi regelverket ikke er tilpassa denne typen aktører. Det er et system som ikke fungerer – og som noen tjener godt på at ikke fungerer.",
 "Likevel: vi er ikke uten innflytelse. Bruktmarkedet er større enn noensinne – Finn, Tise, loppemarkeder. Og når vi må kjøpe nytt, finnes det aktører som lever under de samme reglene vi selv gjør. En billig ting er ikke gratis. Prisen er bare lagt på noe annet – et annet sted.",
 "Vil du gjøre noe konkret for å bli med på å endre dette? Framtiden i våre hender og MDG kjører underskriftskampanjer for å stramme inn regelverket og stille Temu og dets like til ansvar."
+    ],
+  },
+
+  {
+    id: 78,
+    title: "Krokstadelva og klimahenvisninga som ble kalt propaganda",
+    category: "Essay",
+    outlet: "",
+    year: "2026",
+    ingress:
+      "Da noen spurte om hetebølger bør telle med i dimensjoneringa av brannberedskap, kom svaret ikke som et svar – men som en anklage om propaganda.",
+    images: [
+      { src: "images/artikler/artikkel-091.jpg", alt: "Illustrasjon: Charles Rondeau/Pixabay", position: "top" },
+    ],
+    body: [
+      "Brannen i Krokstadelva er ei katastrofe. Over hundre hjem er tapt, fem hundre mennesker har måttet evakuere, et lokalsamfunn er i sjokk. Hovedårsakene er ikke omstridt: bratt terreng, tett trehusbebyggelse fra ei tid med svakere brannkrav, manglende avstand mellom husa. Men det var også ei hetebølge med tørke og ekstremvarme som gjorde både bygg og skog til lettantennelig materiale på få timer. Forskere ved landets branntekniske kompetansesenter har allerede pekt på at klimaendringene vil gi mer ekstrem brannrisiko i åra som kommer – villere, våtere og varmere, som det er blitt formulert. Det er ikke en påstand om at hetebølga aleine forårsaka brannen i Krokstadelva. Det er en påstand om hva slags vær vi må planlegge beredskapen vår for framover.",
+      "Da noen stilte nettopp det spørsmålet – om hetebølger bør telle med i dimensjoneringa av brannberedskap – kom svaret fra Frps Jon Helgheim: at det er \"pill råttent å bruke en sånn tragedie til å spre partipolitisk og feilaktig propaganda på denne måten\".",
+      "Legg merke til hva den anklaga faktisk gjør. Den svarer ikke på spørsmålet. Den flytter det. I stedet for å diskutere om hetebølger hører hjemme i beredskapsplanlegginga, gjøres sjølve det å nevne hetebølga og klimaendringer om til eit moralsk overtramp. Spørsmålet forsvinner, og igjen står bare den, Eivind Trædal, som stilte det i sitt FB-innlegg – anklaga for kynisme og propaganda.",
+      "Det er en kjent bevegelse for den som har fulgt Helgheim i klimadebatten over tid. Samme mann har tidligere avfeid klimabekymring som \"klimahysteri\" og kalt klimaforskning \"oppspinn\". Nå heter det \"propaganda\". Orda endrer seg, men funksjonen er den samme: å gjøre det stigmatiserende å nevne klima i sammenheng med noe konkret, sånn at en aldri behøver å ta stilling til det konkrete.",
+      "Et politisk standpunkt – at klima ikke skal telle i beredskapsplanlegginga – blir aldri argumentert for. Det blir i stedet naturalisert, ved å gjøre motstanderens spørsmål om til et karaktertrekk hos den som spør. Den som nevner klima, blir ikke tatt i feil premiss eller feil fakta. Vedkommende blir tatt i å være kynisk. Det er ikke ei innvending mot et argument. Det er et forsøk på å gjøre argumentet ugyldig.",
+      "Ingen seriøs stemme sier at hetebølga aleine forårsaka brannen. Det gjorde tett bebyggelse og manglende brannsikring. Men å late som om værforholda er irrelevante for hvordan vi bygger og dimensjonerer beredskap framover, er ikke nøkternhet. Det er å nekte å se sammenhengen mellom det som skjedde og det vi vet vil komme oftere.",
+      "Å spørre om klima hører hjemme i beredskapsdebatten, er ikke å slå mynt på ei katastrofe. Det er å ta katastrofa på alvor. Det som faktisk er kynisk, er å bruke sorgen til dem som er ramma som skjold mot spørsmål en ikke vil svare på.",
+      "Kilder: Helgheims uttalelse er publisert som kommentar på Eivind Trædals Facebook-side. Forskningsgrunnlaget om klima og brannrisiko er fra RISE Fire Research, referert av NRK 19. juli 2026.",
     ],
   },
 ];
@@ -3726,7 +3804,15 @@ const karusstjernPhotos = [
   { src: "images/karusstjernet/karusstjernet-35.jpg", alt: "Panoramautsikt over Karusstjernet en klar sommerdag, med grasøyer i vannet og en hund som utforsker strandkanten" },
   { src: "images/karusstjernet/karusstjernet-36.jpg", alt: "Grasøyer speiler seg i det blikkstille vannet ved Karusstjernet under klar blå sommerhimmel" },
   { src: "images/karusstjernet/karusstjernet-37.jpg", alt: "Skogen speiler seg i det stille vannet ved Karusstjernet, med starr og vannplanter i forgrunnen" },
-  { src: "images/karusstjernet/karusstjernet-38.jpg", alt: "En elg beiter ved skogkanten nær Karusstjernet, omgitt av frodig sommergrønt" }
+  { src: "images/karusstjernet/karusstjernet-38.jpg", alt: "En elg beiter ved skogkanten nær Karusstjernet, omgitt av frodig sommergrønt" },
+  { src: "images/karusstjernet/karusstjernet-39.jpg", alt: "Torvøyer og grasøyer flyter i det blikkstille vannet ved Karusstjernet, med granskog og sommerhimmel speilet i overflaten" },
+  { src: "images/karusstjernet/karusstjernet-40.jpg", alt: "Hunden vasser og utforsker vannkanten ved Karusstjernet, med skogen og himmelen speilet i det stille vannet" },
+  { src: "images/karusstjernet/karusstjernet-41.jpg", alt: "Panoramautsikt over Karusstjernet en klar sommerdag, med gras- og torvøyer i vannkanten og skogen speilet i det blanke vannet" },
+  { src: "images/karusstjernet/karusstjernet-42.jpg", alt: "Høye graner speiler seg i Karusstjernet, med vannliljer og ei grasøy i forgrunnen" },
+  { src: "images/karusstjernet/karusstjernet-43.jpg", alt: "Ei lavgrodd, tørr grangrein henger ut over Karusstjernet, med skogen og myrøyer speilet i det blå vannet" },
+  { src: "images/karusstjernet/karusstjernet-44.jpg", alt: "Bjørkegreiner i forgrunnen rammer inn et hav av hvite vannliljer på Karusstjernet" },
+  { src: "images/karusstjernet/karusstjernet-45.jpg", alt: "Vannliljene ligger tett i Karusstjernet, med granskogen og ei mosegrodd øy speilet i vannflata" },
+  { src: "images/karusstjernet/karusstjernet-46.jpg", alt: "Et stort skylag speiler seg i Karusstjernet en tidlig høstdag, med gulnende bjørk og vannliljer langs breddene" }
 ];
 
 function ExpandableText({ text, limit = 150 }) {
@@ -3851,7 +3937,7 @@ function PhotoGrid() {
       </div>
 
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))", gap: "1.2rem", marginBottom: "3rem" }}>
-        {karusstjernPhotos.map((photo, i) => (
+        {[...karusstjernPhotos].reverse().map((photo, i) => (
           <div key={i}>
             <img
               src={photo.src}
